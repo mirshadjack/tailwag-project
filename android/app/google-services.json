@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796247539867",
+    "project_id": "tailwag-289ab",
+    "storage_bucket": "tailwag-289ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796247539867:android:b232c1b3dc4f91bce2463e",
+        "android_client_info": {
+          "package_name": "com.example.tailwag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBfyIsXiBHhJ0SZiLQzwaczY8UyJz8SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
